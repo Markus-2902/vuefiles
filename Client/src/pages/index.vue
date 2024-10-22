@@ -52,7 +52,4 @@ export default {
   </div>
 </template>
 
-<style>
-#fullbody {
-}
-</style>
+<style></style>
