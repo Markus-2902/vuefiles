@@ -1,12 +1,26 @@
-<script setup></script>
+<script setup>
+
+</script>
 
 <template>
   <header>
     <q-tabs class="bg-black text-white">
       <q-route-tab to="/" label="Welcome" class="text-white"></q-route-tab>
-      <q-route-tab to="/goodbye" label="Goodbye Page" class="text-white"></q-route-tab>
-      <q-route-tab to="/logout" label="Abmeldescreen" class="text-white"></q-route-tab>
-      <q-route-tab to="/inputBasicData" label="Eingabefelder" class="text-white"></q-route-tab>
+      <q-route-tab
+        to="/goodbye"
+        label="Goodbye Page"
+        class="text-white"
+      ></q-route-tab>
+      <q-route-tab
+        to="/logout"
+        label="Abmeldescreen"
+        class="text-white"
+      ></q-route-tab>
+      <q-route-tab
+        to="/inputBasicData"
+        label="Eingabefelder"
+        class="text-white"
+      ></q-route-tab>
     </q-tabs>
   </header>
 

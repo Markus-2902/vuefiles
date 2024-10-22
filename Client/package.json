@@ -15,6 +15,7 @@
     "flowbite": "^2.5.1",
     "pinia": "^2.2.2",
     "pinia-plugin-persistedstate": "^4.0.1",
+    "qrcode.vue": "^3.5.1",
     "quasar": "^2.16.9",
     "vue": "^3.4.38",
     "vue-router": "^4.4.3"
